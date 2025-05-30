@@ -23,7 +23,8 @@ Weather App Screenshot 2
 
 #🚀 Getting Started
 
- #🔧 Installation Clone this repository:
+ #
+ 🔧 Installation Clone this repository:
  git clone https://github.com/rahulyadav156/Weather-App.git cd Weather-App Open the project folder and run index.html in your browser.
  
 #
@@ -34,6 +35,7 @@ Replace the apiKey in the JavaScript:
 
 #
 🛠️ Tech StacK
+
 HTML5 
 CSS3 
 JavaScript (ES6+)
