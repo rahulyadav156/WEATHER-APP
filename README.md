@@ -16,12 +16,12 @@ This app allows users to fetch real-time weather data for any city worldwide usi
 
 📱 Fully responsive design — works on all screen sizes
 
-##
+#
 📸 Screenshots
 Weather App Screenshot 1
 Weather App Screenshot 2
 
-#🚀 Getting Started
+###🚀 Getting Started
 
  #
  🔧 Installation Clone this repository:
