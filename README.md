@@ -22,27 +22,33 @@ Weather App Screenshot 1
 Weather App Screenshot 2
 
 #🚀 Getting Started
- 🔧 Installation Clone this repository: git clone https://github.com/rahulyadav156/Weather-App.git cd Weather-App Open the project folder and run index.html in your browser.
+
+ #🔧 Installation Clone this repository:
+ git clone https://github.com/rahulyadav156/Weather-App.git cd Weather-App Open the project folder and run index.html in your browser.
  
-#🔐 API Key Setup
+#
+🔐 API Key Setup
 Create a free account on OpenWeatherMap
 Go to your dashboard and copy your API key
 Replace the apiKey in the JavaScript:
 
-#🛠️ Tech StacK
+#
+🛠️ Tech StacK
 HTML5 
 CSS3 
 JavaScript (ES6+)
 OpenWeatherMap API
 
 
-#📁 Project Structure Weather-App
+#
+📁 Project Structure Weather-App
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
 
-#🙋‍♂️ Author
+#
+🙋‍♂️ Author
 📧 rahulyadav16502@gmail.com
 🌐 GitHub Profile
 🔗 LinkedIn
