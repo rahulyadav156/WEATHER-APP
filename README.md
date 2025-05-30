@@ -4,7 +4,8 @@
 A clean, modern, and fully responsive Weather Application built using HTML, CSS, and JavaScript. 
 This app allows users to fetch real-time weather data for any city worldwide using the OpenWeatherMap API.
 
-#🌟 Key Features
+#
+🌟 Key Features
 🔍 Search current weather by city name
 
 🌡️ Displays temperature, humidity, wind speed, and weather condition
