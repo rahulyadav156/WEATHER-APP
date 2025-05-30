@@ -16,7 +16,8 @@ This app allows users to fetch real-time weather data for any city worldwide usi
 
 📱 Fully responsive design — works on all screen sizes
 
-#📸 Screenshots
+##
+📸 Screenshots
 Weather App Screenshot 1
 Weather App Screenshot 2
 
