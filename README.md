@@ -16,7 +16,7 @@ This app allows users to fetch real-time weather data for any city worldwide usi
 
 📱 Fully responsive design — works on all screen sizes
 #
-live Link -
+live Link -https://rahulyadav156.github.io/WEATHER-APP/
 #
 📸 Screenshots
 Weather App Screenshot 1
